@@ -1,0 +1,79 @@
+{
+    "sha": "8739dddcbab52c68ffd14eda26b58b4689d2590f",
+    "node_id": "C_kwDODPVsZ9oAKDg3MzlkZGRjYmFiNTJjNjhmZmQxNGVkYTI2YjU4YjQ2ODlkMjU5MGY",
+    "commit": {
+        "author": {
+            "name": "dependabot[bot]",
+            "email": "49699333+dependabot[bot]@users.noreply.github.com",
+            "date": "2021-12-19T22:37:33Z"
+        },
+        "committer": {
+            "name": "GitHub",
+            "email": "noreply@github.com",
+            "date": "2021-12-19T22:37:33Z"
+        },
+        "message": "Bump hosted-git-info from 2.8.5 to 2.8.9 (#77)\n\nBumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.5 to 2.8.9.\r\n- [Release notes](https://github.com/npm/hosted-git-info/releases)\r\n- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)\r\n- [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.5...v2.8.9)\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+        "tree": {
+            "sha": "8df7f6677d2330e2c117333ad3638414681ccf42",
+            "url": "https://api.github.com/repos/huytd/pomoday-v2/git/trees/8df7f6677d2330e2c117333ad3638414681ccf42"
+        },
+        "url": "https://api.github.com/repos/huytd/pomoday-v2/git/commits/8739dddcbab52c68ffd14eda26b58b4689d2590f",
+        "comment_count": 1,
+        "verification": {
+            "verified": true,
+            "reason": "valid",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJhv7QtCRBK7hj4Ov3rIwAAqcgIAG6jBk5UyQIo3RPFccdAdXvG\nYBRGaVNIECc292eIYX4GyrBL3cpUKFMx4itWDqY9nsaEwuA455kb9h+vo5lmngxM\ntOAPMLPOYOCtz1yE9OZcDz0kFze7eBxdmSeA+1JwZjOEmOgHfq20J5W60GyBHjq/\nZlCYyrRO7XXW7TEUjX49kz16pyA1/MIuaLGzCwwkSryLHTysB5B1sLi+YkxkhA7T\nI3MeXQBeMa74R9uFm6kzR1QLrCXXoYtVzEOavP8HufAG4pNqrQRNO3VSCb+qsTcm\nPT33SD3GSsjG/MqmgEgW1hJ26mOqXubkt+fhrGF58MNPi1yGSrL4BYI4sF9oXj8=\n=8zlb\n-----END PGP SIGNATURE-----\n",
+            "payload": "tree 8df7f6677d2330e2c117333ad3638414681ccf42\nparent 1145fa8d380ab608d142539a5b9b86369d1c1f16\nauthor dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> 1639953453 -0800\ncommitter GitHub <noreply@github.com> 1639953453 -0800\n\nBump hosted-git-info from 2.8.5 to 2.8.9 (#77)\n\nBumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.5 to 2.8.9.\r\n- [Release notes](https://github.com/npm/hosted-git-info/releases)\r\n- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)\r\n- [Commits](https://github.com/npm/hosted-git-info/compare/v2.8.5...v2.8.9)\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+        }
+    },
+    "url": "https://api.github.com/repos/huytd/pomoday-v2/commits/8739dddcbab52c68ffd14eda26b58b4689d2590f",
+    "html_url": "https://github.com/huytd/pomoday-v2/commit/8739dddcbab52c68ffd14eda26b58b4689d2590f",
+    "comments_url": "https://api.github.com/repos/huytd/pomoday-v2/commits/8739dddcbab52c68ffd14eda26b58b4689d2590f/comments",
+    "author": {
+        "login": "dependabot[bot]",
+        "id": 49699333,
+        "node_id": "MDM6Qm90NDk2OTkzMzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+        "html_url": "https://github.com/apps/dependabot",
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false
+    },
+    "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "parents": [
+        {
+            "sha": "1145fa8d380ab608d142539a5b9b86369d1c1f16",
+            "url": "https://api.github.com/repos/huytd/pomoday-v2/commits/1145fa8d380ab608d142539a5b9b86369d1c1f16",
+            "html_url": "https://github.com/huytd/pomoday-v2/commit/1145fa8d380ab608d142539a5b9b86369d1c1f16"
+        }
+    ]
+}
