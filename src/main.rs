@@ -35,7 +35,7 @@ impl<'de> DeserializeSeed<'de> for GrepDeserialize<'de> {
 			fn visit_seq<A>(self, mut seq: A) -> Result<Self::Value, A::Error> where A: SeqAccess<'de>, {
 				let mut index = 0;
 				while let Some(value) = seq.next_element::<Value>()? {
-					_ = value.clone().deserialize_any(GrepVisitor{
+					_ = value.deserialize_any(GrepVisitor{
 						keyword: self.keyword,
 						current_path: format!("{}.{}", self.current_path, index)
 					});
